@@ -201,17 +201,14 @@ int main()
 ## Tabulations and graph 
 ![o1](https://user-images.githubusercontent.com/94165336/200356280-63426d44-9794-4ca3-9a11-8b0220ddc999.png)
 ![o4](https://user-images.githubusercontent.com/94165336/200356309-4d880bda-41c9-4710-ba83-75cd15f0003d.png)
-
-
-
-
-Result :
-Configuring an ADC and the input values are displayed on LCD screen 
-
+ 
 Output screen shots :
 ![pic1](https://user-images.githubusercontent.com/94165336/200356087-747b0b28-8fa8-4311-9d85-a5df6737797c.png)
 ![pic2](https://user-images.githubusercontent.com/94165336/200356109-6171286f-d712-4bbb-b84c-638da7bf8d0f.png)
 ![pic3](https://user-images.githubusercontent.com/94165336/200356145-4596d402-665d-42da-9ee3-a36bb6003fbb.png)
+
+Result :
+Configuring an ADC and the input values are displayed on LCD screen
 
 
 
