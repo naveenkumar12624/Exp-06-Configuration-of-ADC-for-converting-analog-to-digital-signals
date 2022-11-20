@@ -5,8 +5,10 @@
 ## Roll no: 212221240033
   
   
-## Aim: To configure internal ADC for   LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
-## Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
+## Aim:
+ To configure internal ADC for   LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
+## Components required: 
+Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
  
  ![image](https://user-images.githubusercontent.com/36288975/198947663-2d75f694-880a-4bc0-be67-8c2d4125fdb6.png)
 
@@ -163,7 +165,7 @@ This bit is set to 1 when an A/D conversion completes. It is cleared when this r
  
 
 
-Procedure:
+## Procedure:
 Steps for Analog to Digital Conversion
 1.	Configure the ADxCR (ADC Control Register) according to the need of application.
 2.	Start ADC conversion by writing appropriate value to START bits in ADxCR. (Example, writing 001 to START bits of the register 26:24, conversion is started immediately).
